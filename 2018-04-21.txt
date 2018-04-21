@@ -2,3 +2,8 @@
 I'm back in this "essays" directory again, and it's been about 2 months.  I'm glad that I found my way back here, but I also realze that I need to find the same place to return to  This is another journal entry, but I really want to use this particular *public* location for completed essays.
 
 Now that I'm here, that's ok.  I'm simply going to write here for just a brief moment.
+I just successfully commited th file, and now I'm going to experiment with an external keyboard.
+
+After a few minutes, the keyboard *does* work, which is great news. It's easer to type that the mini keyboard that's built into the netbook I was using.
+
+So, it looks like I now have an excellent set-up. I'm using an external USB keyboard which is a standard size, with a Linux laptop.  At the moment, I'm typng in a browser that's automatically connected to the cloud, so the updates happen very quickly.
